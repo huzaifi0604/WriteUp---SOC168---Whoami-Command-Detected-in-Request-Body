@@ -57,6 +57,8 @@ Since we are investigating an attack on a web application and the attack type is
 * Move to the Endpoint Security Tab
 * search for the destination Ip to contain the host
 * And Request the containment of the Host<br/>
-![request containment](containmentt.png)
+![request containment](containment.png)
 
-
+<br/> The work is almost done. The only thing left is to suggest that wether the Tier 2 escalation is needed or not.<br/>
+Since the attack was successful as we investigated above, there is a need of further investigation because we were only able to detect the type of attack. Hence yes we need tier to escalation.<br/>
+![Tier 2](16a.png)
